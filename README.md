@@ -10,8 +10,7 @@
   node server.js para iniciar servidor
 
   Consultas:
-    
-   POST
+    POST
   - /cancion
   GET
   - /canciones
