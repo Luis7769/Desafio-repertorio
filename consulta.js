@@ -2,7 +2,7 @@ const { Pool } = require('pg');
 const hostDB = process.env.HOSTDB || '127.0.0.1';
 const portDB = process.env.PORTDB || 5432;
 const userDB = process.env.USERDB || 'postgres';
-const passDB = process.env.PASSDB || '123456';
+const passDB = process.env.PASSDB || 'umut1985';
 const database = process.env.DATABASE || 'repertorio'; 
 
 const pool = new Pool({
